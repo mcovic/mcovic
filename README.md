@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mcovic/mcovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 My Tech Stack:
 
-Here are some ideas to get you started:
+[![JavaScript, TypeScript, PHP, React, Next.js, Node.js, Express, Laravel, SASS, MySQL, Postgres, MongoDB, Git, GitHub, GitLab, Docker, Idea, Bootstrap, Figma, Jest, jQuery, Linux, Postman, Redux](https://skillicons.dev/icons?i=js,ts,react,nextjs,php,nodejs,express,laravel,sass,mysql,postgres,mongodb,git,github,gitlab,docker,idea,bootstrap,figma,jest,jquery,linux,postman,redux)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mcovic&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcovic&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+</div>
