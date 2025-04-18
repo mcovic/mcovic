@@ -1,8 +1,49 @@
 <div align="center">
 
-## 💻 My Tech Stack:
+## 👋 Hey, I'm Marin!
 
-[![JavaScript, TypeScript, PHP, React, Next.js, Node.js, Express, Laravel, SASS, MySQL, Postgres, MongoDB, Git, GitHub, GitLab, Docker, Idea, Bootstrap, Figma, Jest, jQuery, Linux, Postman, Redux](https://skillicons.dev/icons?i=js,ts,react,nextjs,php,nodejs,express,laravel,sass,mysql,postgres,mongodb,git,github,gitlab,docker,idea,bootstrap,figma,jest,jquery,linux,postman,redux)](https://skillicons.dev)
+I'm a full-stack developer who loves building modern, performant web apps. Passionate about clean code, UI/UX, and always learning something new.
+
+## 💻 My Tech Stack
+
+### Languages
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![PHP](https://skillicons.dev/icons?i=php)
+
+### Frameworks & Libraries
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Express](https://skillicons.dev/icons?i=express)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![jQuery](https://skillicons.dev/icons?i=jquery)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Jest](https://skillicons.dev/icons?i=jest)
+
+### Styling
+![SASS](https://skillicons.dev/icons?i=sass)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+### Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+![Docker](https://skillicons.dev/icons?i=docker)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+## 🌐 Connect with Me
+
+[![Email](https://img.shields.io/badge/E--mail-marincovic4@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:marincovic4@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marin-covic-6725b0263/)
 
 ## 🏆 My Stats:
 
@@ -10,5 +51,10 @@
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mcovic&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcovic&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mcovic&theme=darkhub&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
