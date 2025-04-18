@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F2F2F2&center=true&width=435&lines=Hi+there!+I'm+Marin.;Full-Stack+Web+Developer;Always+learning)](https://git.io/typing-svg)
+
 ## 👋 Hey, I'm Marin!
 
 I'm a full-stack developer who loves building modern, performant web apps. Passionate about clean code, UI/UX and always learning something new.
