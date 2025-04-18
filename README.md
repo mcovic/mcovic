@@ -27,8 +27,6 @@ I'm a full-stack developer who loves building modern, performant web apps. Passi
 
 ### Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![GitLab](https://skillicons.dev/icons?i=gitlab)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Linux](https://skillicons.dev/icons?i=linux)
