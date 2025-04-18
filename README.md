@@ -2,7 +2,7 @@
 
 ## 👋 Hey, I'm Marin!
 
-I'm a full-stack developer who loves building modern, performant web apps. Passionate about clean code, UI/UX, and always learning something new.
+I'm a full-stack developer who loves building modern, performant web apps. Passionate about clean code, UI/UX and always learning something new.
 
 ## 💻 My Tech Stack
 
@@ -20,10 +20,6 @@ I'm a full-stack developer who loves building modern, performant web apps. Passi
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![Jest](https://skillicons.dev/icons?i=jest)
 
-### Styling
-![SASS](https://skillicons.dev/icons?i=sass)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
 ### Databases
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
@@ -34,10 +30,8 @@ I'm a full-stack developer who loves building modern, performant web apps. Passi
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![GitLab](https://skillicons.dev/icons?i=gitlab)
 ![Docker](https://skillicons.dev/icons?i=docker)
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Figma](https://skillicons.dev/icons?i=figma)
 
 ## 🌐 Connect with Me
 
@@ -51,10 +45,5 @@ I'm a full-stack developer who loves building modern, performant web apps. Passi
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mcovic&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcovic&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mcovic&theme=darkhub&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 </div>
